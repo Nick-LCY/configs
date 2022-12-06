@@ -1,0 +1,2 @@
+# To avoid using release ESC key as META key
+set keyseq-timeout 0
